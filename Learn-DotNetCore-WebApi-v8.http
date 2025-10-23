@@ -1,0 +1,6 @@
+@Learn_DotNetCore_WebApi_v8_HostAddress = http://localhost:5086
+
+GET {{Learn_DotNetCore_WebApi_v8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
