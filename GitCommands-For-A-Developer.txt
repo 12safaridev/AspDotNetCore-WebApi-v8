@@ -1,1 +1,22 @@
-﻿
+﻿git init
+git add .
+git commit -m "Initial Commit"
+git branch -M main
+git remote add origin https://github.com/12safaridev/AspDotNetCore-WebApi-v8.git
+git push -u origin main
+
+
+************
+WebSites to explore:
+https://dotnethow.net/
+
+https://localhost:7071/api/Books?bookId=8
+
+https://localhost:7071/api/Books/get-all-books/8
+
+design pattern video 
+https://www.youtube.com/watch?v=pZIUiiSZA94&list=PLak2C883P4cVVXq8UZglwRtObQ6pSDwwS
+
+Hangfire: for background jobs
+-------
+https://www.youtube.com/watch?v=Rw0tM7EAWr8&list=PL2Q8rFbm-4rtH-5o6mzOFA0tombRfr4Be
